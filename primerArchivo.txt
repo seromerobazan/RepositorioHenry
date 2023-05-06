@@ -2,3 +2,8 @@
 
 
 Este archivo fue creado localmente en @fobos y modificado en github. se envía a @fobos para su revision
+
+
+Revisado en @fobos, se envía de vuelta a github para su revisión
+
+
